@@ -1,0 +1,118 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+h2{
+	font-family: 'Righteous', cursive;
+}
+p{
+	font-family: 'Voltaire', sans-serif;
+	color: #DDDDDD;
+	margin-right: 200px;
+}
+small {
+	color: #b69877;
+}
+small a, p a{
+		color: #ddd;
+		text-decoration:none;
+}
+.page1 {
+	background-image: url(../../build/img/sapi.jpg);
+	background-size:100% 100%;
+}
+.page2 {
+	background-image: url(../../build/img/gancik.jpg);
+	background-size:100% 100%;
+}
+.page3 {
+	background-image: url(../../build/img/gancik.png);
+	background-size:100% 100%;
+}
+.page4 {
+	
+}
+	
+.one {
+}
+.one .page-container {
+	color: white;
+	border-radius:20px;
+	position: absolute;
+	top: 10%;
+	bottom: 100px;
+	margin-left:-400px;
+	left: 50%;
+	margin-bottom: 100px;
+	background-color: rgba(0,0,0,0.5);
+	padding:20px;
+	max-width: 650px;
+}
+
+.one .page-container h2{
+	font-size: 3em;
+}
+.one .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+
+.two {
+	background-color: #b69877;
+}
+.two .page-container {
+	color: white;
+	border-radius:20px;
+	position: absolute;
+	top: 10%;
+	bottom: 100px;
+	margin-left:-400px;
+	left: 50%;
+	margin-bottom: 100px;
+	background-color: rgba(0,0,0,0.5);
+	padding:20px;
+	max-width: 650px;
+}
+.two .page-container h2 {
+	font-size: 3em;
+}
+.two .page-container p{
+	padding : 20px 0;
+	line-height: 1.5em;
+}
+.three {
+	background-color: #036564;
+}
+.three .page-container {
+	color: white;
+	border-radius:20px;
+	position: absolute;
+	top: 10%;
+	bottom: 100px;
+	margin-left:-400px;
+	left: 50%;
+	margin-bottom: 100px;
+	background-color: rgba(0,0,0,0.5);
+	padding:20px;
+	max-width: 650px;
+}
+.three .page-container h2{
+	font-size: 3em;
+}
+.three .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+
+.four {
+	background-color: #036564;
+}
+.four .page-container {
+
+}
+.four .page-container h2{
+	
+}
+.four .page-container p{
+	
+}
